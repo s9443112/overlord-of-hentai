@@ -7,6 +7,10 @@
 
 項目很簡單且不需要你貢獻代碼，沒有程式技巧都可以加入。你可以從這個專案學習從clone專案，創建分支、提交、同步修改到合併分支請求的整套流程，一次即可熟悉Git/Github的使用
 
+## License
+本項目採用知識共享署名 - 非商業性使用 - 相同方式共享4.0國際許可協議進行許可。  
+This repository is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
 ## 正文開始
 ### 霸主經典
 * 妙蛙種子有什麼好玩的，你體內有我的種子才好玩阿。
