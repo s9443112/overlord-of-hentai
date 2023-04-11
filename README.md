@@ -1,12 +1,12 @@
 # Overlord of hentai - 這是源自於霸社眾多噁男集結的心血
 ## 霸社汁妹語錄大全
 
-先聲明一下，本篇僅供娛樂用，如果亂用裡面的句子，而抵觸相關法律、被8+9追殺等等......請自行負責，本人不負任何責任，請各位理性使用。如果有其它沒有收錄的、新的，私我。歡迎追蹤、卡位
-
+先聲明一下，本篇僅供娛樂用，而抵觸相關法律、被8+9追殺等等......請自行負責，本人不負任何責任，請各位理性使用。如果有其它沒有收錄的、新的，私我。歡迎追蹤、卡位
+123456123
 內含8主的經典、噁男騷擾、優質浪漫、又噁又浪漫
 
 項目很簡單且不需要你貢獻代碼，沒有程式技巧都可以加入。你可以從這個專案學習從clone專案，創建分支、提交、同步修改到合併分支請求的整套流程，一次即可熟悉Git/Github的使用
-
+7897891456
 ## License
 本項目採用知識共享署名 - 非商業性使用 - 相同方式共享4.0國際許可協議進行許可。  
 This repository is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
@@ -14,8 +14,7 @@ This repository is licensed under a Creative Commons Attribution-NonCommercial-S
 ## 正文開始
 ### 霸主經典
 * 妙蛙種子有什麼好玩的，你體內有我的種子才好玩阿。
-* 我覺得他很漂亮，但我沒有因此打手槍。
-* 做愛不需要裝乖。
+ssssssss
 * 妳的咪咪只有我能摸。
 * 約嗎?
 
